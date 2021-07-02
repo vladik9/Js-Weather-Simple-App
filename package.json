@@ -1,0 +1,15 @@
+{
+  "name": "thewatherapp",
+  "version": "1.0.0",
+  "description": "the wheater app",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dexY",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1"
+  }
+}
